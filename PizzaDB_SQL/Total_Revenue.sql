@@ -1,0 +1,5 @@
+SELECT SUM(total_price) 
+AS 'Total_Revenue'
+ FROM pizza_sales;
+ 
+ -- CALCULATING THE TOTAL REVENUE OF ALL THE SALES OF PRICES
